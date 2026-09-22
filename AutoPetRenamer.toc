@@ -1,0 +1,9 @@
+## Interface: 16001
+## Title: AutoPetRenamer
+## Notes: Renames your pet to the targeted enemy player's name.
+## Author: EinBaum
+## Version: 1.0.0
+## Category: Combat
+## IconTexture: Interface\Icons\Ability_Hunter_Pet_Wolf
+
+AutoPetRenamer.lua
